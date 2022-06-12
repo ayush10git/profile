@@ -1,0 +1,105 @@
+body{
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+.top-container{
+  background-color: #B8FFF9;
+  color: #42C2FF;
+  position: relative;
+  padding-top: 150px;
+  font-family: 'Tiro Tamil', serif;
+  margin:-7px;
+}
+
+h1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 100px;
+  font-family: 'Sacramento', cursive;
+  color: #42C2FF;
+}
+h2{
+  font-size: 40px;
+  font-family: 'Inter', sans-serif;
+  color: #34B3F1;
+}
+h3{
+  font-family: 'Mulish', sans-serif;
+  color: #42C2FF;
+}
+
+a{
+  color: #85F4FF;
+  font-family: 'Mulish', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 60px;
+  right: 325px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 325px;
+}
+.middle-container{
+  margin-top: 0;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  background-color: #EFFFFD;
+
+  }
+
+.bottom-container{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #42C2FF;
+}
+.profile img{
+  height: 200px;
+  width: 200px;
+}
+.code-img{
+  height: 200px;
+  width: 200px;
+  float:left;
+  margin-right: 30px;
+}
+.cricket-img{
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  text-align: left;
+  width: 40%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+.footer-link{
+  padding: 5px 15px;
+}
+
+.contact-me a{
+  color: #EFFFFD;
+  background-color: #42C2FF;
+  padding: 8px;
+  border-radius: 7px;
+}
+
+hr{
+  border: 5px dotted grey;
+  border-top: 5px;
+  width: 2%;
+  margin: 100px auto;
+}
+.heading{
+  margin: 40px auto;
+}
